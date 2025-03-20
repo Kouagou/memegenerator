@@ -47,8 +47,8 @@
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/Kouagou/memecrafterproject.git
-cd memecrafterproject
+git clone https://github.com/Kouagou/memegenerator.git
+cd memgenerator
 ```
 ### 2. Créer un environnement virtuel
 
